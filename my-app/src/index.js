@@ -8,6 +8,7 @@ function Greeting() {
         <h4>Hello React</h4>
         <ul>
           <img src="" alt="" />
+          <br />
           <input type="text" name="" id="" />
         </ul>
       </article>
