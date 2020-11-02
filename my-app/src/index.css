@@ -23,6 +23,7 @@ h1 {
 @media screen and (min-width: 768px) {
   .booklist {
     grid-template-columns: repeat(3, 1fr);
+    /* align-items: start; */
   }
 }
 
@@ -35,4 +36,12 @@ h1 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   color: purple;
+}
+.book h4 {
+  color: #617d98;
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
+.book p {
+  margin-top: 0.5rem;
 }
